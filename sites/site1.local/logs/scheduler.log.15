@@ -1,0 +1,4 @@
+2020-09-18 01:18:01,245 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for site1.local
+2020-09-18 01:18:01,353 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for site1.local
+2020-09-18 01:18:01,386 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for site1.local
+2020-09-18 01:18:01,428 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for site1.local

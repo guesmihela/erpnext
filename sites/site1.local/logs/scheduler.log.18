@@ -1,0 +1,9 @@
+2020-09-17 10:38:14,633 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for site1.local
+2020-09-17 10:38:14,746 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for site1.local
+2020-09-17 10:38:14,793 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for site1.local
+2020-09-17 10:38:14,839 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for site1.local
+2020-09-17 10:38:14,899 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for site1.local
+2020-09-17 10:38:14,933 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for site1.local
+2020-09-17 10:38:15,005 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for site1.local
+2020-09-17 10:38:15,039 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for site1.local
+2020-09-17 10:38:15,090 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for site1.local
