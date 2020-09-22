@@ -29,3 +29,45 @@
 2020-09-22 11:46:06,026 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for site1.local
 2020-09-22 11:46:06,355 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for site1.local
 2020-09-22 11:46:07,956 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for site1.local
+2020-09-22 11:46:59,952 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for site1.local
+2020-09-22 11:46:59,974 DEBUG scheduler Queued events for site site1.local
+2020-09-22 11:47:00,034 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for site1.local
+2020-09-22 11:47:00,070 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for site1.local
+2020-09-22 11:47:00,111 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for site1.local
+2020-09-22 11:47:00,146 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for site1.local
+2020-09-22 11:47:00,253 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for site1.local
+2020-09-22 11:47:00,293 INFO scheduler Scheduled Job Start: frappe.monitor.flush for site1.local
+2020-09-22 11:47:00,325 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for site1.local
+2020-09-22 11:47:00,360 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for site1.local
+2020-09-22 11:47:00,387 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for site1.local
+2020-09-22 11:47:00,421 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for site1.local
+2020-09-22 11:47:00,469 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for site1.local
+2020-09-22 11:47:00,509 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for site1.local
+2020-09-22 11:47:00,570 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for site1.local
+2020-09-22 11:47:00,605 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for site1.local
+2020-09-22 11:47:00,674 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for site1.local
+2020-09-22 11:47:00,707 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for site1.local
+2020-09-22 11:47:00,751 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for site1.local
+2020-09-22 11:48:00,288 DEBUG scheduler Queued events for site site1.local
+2020-09-22 11:49:00,659 DEBUG scheduler Queued events for site site1.local
+2020-09-22 11:50:00,951 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for site1.local
+2020-09-22 11:50:00,960 DEBUG scheduler Queued events for site site1.local
+2020-09-22 11:50:00,995 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for site1.local
+2020-09-22 11:50:01,032 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for site1.local
+2020-09-22 11:50:01,072 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for site1.local
+2020-09-22 11:50:01,106 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for site1.local
+2020-09-22 11:50:01,204 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for site1.local
+2020-09-22 11:50:01,238 INFO scheduler Scheduled Job Start: frappe.monitor.flush for site1.local
+2020-09-22 11:50:01,364 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for site1.local
+2020-09-22 11:50:01,436 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for site1.local
+2020-09-22 11:50:01,470 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for site1.local
+2020-09-22 11:50:01,503 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for site1.local
+2020-09-22 11:50:01,544 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for site1.local
+2020-09-22 11:50:01,580 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for site1.local
+2020-09-22 11:50:01,640 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for site1.local
+2020-09-22 11:50:01,673 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for site1.local
+2020-09-22 11:50:01,739 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for site1.local
+2020-09-22 11:50:01,772 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for site1.local
+2020-09-22 11:50:01,814 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for site1.local
+2020-09-22 11:51:01,214 DEBUG scheduler Queued events for site site1.local
+2020-09-22 11:52:01,591 DEBUG scheduler Queued events for site site1.local
