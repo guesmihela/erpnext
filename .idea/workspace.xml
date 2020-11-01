@@ -6,6 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56640c29-0be2-43f6-8cd6-ba5dcdfb6698" name="Default Changelist" comment="second commit">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/erpnext" beforeDir="false" afterPath="$PROJECT_DIR$/apps/erpnext" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/erpnext/erpnext/newmod/__init__.py" beforeDir="false" />
@@ -24,54 +25,6 @@
       <change beforePath="$PROJECT_DIR$/apps/erpnext/erpnext/partners/doctype/type_contrat/type_contrat.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/erpnext/erpnext/partners/doctype/type_contrat/type_contrat.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/erpnext/erpnext/partners/doctype/type_vente_autorise/type_vente_autorise.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/erpnext/erpnext/partners/doctype/type_vente_autorise/type_vente_autorise.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/erpnext/erpnext/partners_contract/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/pids/redis_cache.pid" beforeDir="false" afterPath="$PROJECT_DIR$/config/pids/redis_cache.pid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/pids/redis_queue.pid" beforeDir="false" afterPath="$PROJECT_DIR$/config/pids/redis_queue.pid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/pids/redis_socketio.pid" beforeDir="false" afterPath="$PROJECT_DIR$/config/pids/redis_socketio.pid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/frappe.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/frappe.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/scheduler.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/scheduler.log.1" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler.log.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/scheduler.log.10" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler.log.10" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/scheduler.log.11" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler.log.11" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/scheduler.log.12" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler.log.12" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/scheduler.log.13" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler.log.13" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/scheduler.log.14" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler.log.14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/scheduler.log.15" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler.log.15" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/scheduler.log.16" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler.log.16" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/scheduler.log.17" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler.log.17" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/scheduler.log.18" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler.log.18" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/scheduler.log.19" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler.log.19" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/scheduler.log.2" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler.log.2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/scheduler.log.20" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler.log.20" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/scheduler.log.3" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler.log.3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/scheduler.log.4" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler.log.4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/scheduler.log.5" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler.log.5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/scheduler.log.6" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler.log.6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/scheduler.log.7" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler.log.7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/scheduler.log.8" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler.log.8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/scheduler.log.9" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler.log.9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log" beforeDir="false" afterPath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.1" beforeDir="false" afterPath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.10" beforeDir="false" afterPath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.10" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.11" beforeDir="false" afterPath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.11" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.12" beforeDir="false" afterPath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.12" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.13" beforeDir="false" afterPath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.13" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.14" beforeDir="false" afterPath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.15" beforeDir="false" afterPath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.15" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.16" beforeDir="false" afterPath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.16" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.17" beforeDir="false" afterPath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.17" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.18" beforeDir="false" afterPath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.18" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.19" beforeDir="false" afterPath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.19" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.2" beforeDir="false" afterPath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.20" beforeDir="false" afterPath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.20" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.3" beforeDir="false" afterPath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.4" beforeDir="false" afterPath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.5" beforeDir="false" afterPath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.6" beforeDir="false" afterPath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.7" beforeDir="false" afterPath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.8" beforeDir="false" afterPath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.9" beforeDir="false" afterPath="$PROJECT_DIR$/sites/site1.local/logs/scheduler.log.9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/site1.local/private/backups/20200921_202437-site1_local-database.sql.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/site1.local/private/backups/20200921_202437-site1_local-site_config_backup.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
